@@ -1,7 +1,6 @@
 # Delete-New-Season-Trailer
 Finds new season trailers and deletes them
 
-<img width="586" height="291" alt="image" src="https://github.com/user-attachments/assets/c5bb14a9-35a3-4094-9d42-51ece144b7ff" />
 <h1>New Season Alert</h1>
 <h3>Send a one time alert to your discord server channel when a new season of a show you are monitoring in Sonarr has a new season coming soon.</h3>
 
