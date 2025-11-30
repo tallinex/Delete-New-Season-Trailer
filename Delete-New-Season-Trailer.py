@@ -17,8 +17,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Plex server configuration
-PLEX_URL = 'http://192.168.4.4:32400'  # Change to your Plex server URL
-PLEX_TOKEN = '9spEfsaCzzACSkmoAypA'  # Replace with your Plex token
+PLEX_URL = 'http://localhost:32400'  # Change to your Plex server URL
+PLEX_TOKEN = 'YOUR_PLEX_TOKEN_HERE'  # Replace with your Plex token
 
 # Script configuration
 LABEL_NAME = 'New Season'  # The label to search for on TV shows
